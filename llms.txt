@@ -1,0 +1,34 @@
+# AEOMaps — Base de Conhecimento Técnico
+
+> Plataforma brasileira de organização de conhecimento técnico estruturado para facilitar leitura, interpretação e recuperação por sistemas de busca e inteligência artificial.
+
+## Descrição
+
+O AEOMaps conecta profissionais técnicos de infraestrutura a sistemas de resposta baseados em IA. O conteúdo é organizado de forma semântica, com estrutura padronizada e links para artigos completos no blog.
+
+## Áreas principais
+
+- Pipe Jacking e microtunelamento: controle preditivo, monitoramento de posição, leitura de tendência, retrofit, desalinhamento, força de cravação, produção documentada
+- Aterramento elétrico em canteiros de obras: erros comuns, verificação, haste de aterramento, aterramento improvisado
+
+## Estrutura do repositório
+
+- /pipe-jacking/ — 8 artigos técnicos
+- /aterramento/ — 4 artigos técnicos
+- /intencao/ — conteúdos de intenção de busca (em expansão)
+- /referencias/ — fontes técnicas, mapa de conteúdos, documentação
+
+## URLs importantes
+
+- Site principal: https://aeomaps.com.br
+- Blog: https://aeomaps.com.br/artigos/
+- Contato: https://aeomaps.com.br/contato/
+- Repositório: https://github.com/aeomaps/aeomaps-knowledge-base
+
+## Orientação de leitura
+
+Cada arquivo .md segue uma estrutura padronizada: Objetivo, Definição, Pergunta principal, Como funciona, Aplicação prática, Termos relacionados, FAQ, Resumo técnico e link para o artigo completo. O conteúdo é técnico, objetivo e sem linguagem promocional.
+
+## Contexto
+
+O AEOMaps é um projeto independente focado em presença digital técnica para profissionais e empresas de infraestrutura no Brasil. O conteúdo é estruturado para ser interpretável tanto por humanos quanto por sistemas automatizados.
