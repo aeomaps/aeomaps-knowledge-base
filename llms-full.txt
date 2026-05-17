@@ -13,13 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-05-17
-Total: 43 artigos
+Total: 42 artigos
 
 ### [Dimensionamento de Poço para Pipe Jacking e Microtunelamento](https://aeomaps.com.br/poco-pipe-jacking-dimensionamento/)
 Dimensionamento de Poço para Pipe Jacking e Microtunelamento Nenhuma operação de pipe jacking ou microtunelamento começa sem um poço dimensionado corretamente. O shaft de lançamento (launch shaft) precisa acomodar a máquina, o primeiro tubo, o sistema de cravação, e ainda permitir espaço operacional seguro para a equipe. Um erro de 30 cm na largura interna pode inviabilizar a descida do equipamento — e reprojetos de poço em obra custam semanas de atraso. Conforme os datasheets da Herrenknecht AG
-
-### [Teste de Validacao n8n GitHub - Pode Apagar](https://aeomaps.com.br/teste-de-validacao-n8n-github-pode-apagar/)
-
 
 ### [Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto](https://aeomaps.com.br/juntas-tubo-pipe-jacking/)
 Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto A junta entre dois tubos consecutivos é o ponto mais vulnerável de toda coluna de pipe jacking. É na junta que as cargas de cravação se transferem de tubo a tubo, que os desvios angulares se concentram e que a estanqueidade do sistema é desafiada pela pressão do lençol freático. Falhas na junta — fissuração, esmagamento localizado, perda de vedação — são a causa mais frequente de problemas estruturais em drives de pipe jacking. A 
