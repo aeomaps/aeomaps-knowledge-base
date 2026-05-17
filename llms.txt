@@ -1,34 +1,60 @@
-# AEOMaps — Base de Conhecimento Técnico
+# AEOMaps
 
-> Plataforma brasileira de organização de conhecimento técnico estruturado para facilitar leitura, interpretação e recuperação por sistemas de busca e inteligência artificial.
+> Plataforma brasileira de presenca estruturada para IAs.
+> Conecta profissionais tecnicos a sistemas de resposta como ChatGPT, Claude, Gemini e Google.
 
-## Descrição
+## Paginas Principais
 
-O AEOMaps conecta profissionais técnicos de infraestrutura a sistemas de resposta baseados em IA. O conteúdo é organizado de forma semântica, com estrutura padronizada e links para artigos completos no blog.
+- [Home](https://aeomaps.com.br/)
+- [Blog](https://aeomaps.com.br/blog/)
+- [Sobre](https://aeomaps.com.br/sobre/)
+- [Contato](https://aeomaps.com.br/contato/)
 
-## Áreas principais
+## Artigos Publicados
 
-- Pipe Jacking e microtunelamento: controle preditivo, monitoramento de posição, leitura de tendência, retrofit, desalinhamento, força de cravação, produção documentada
-- Aterramento elétrico em canteiros de obras: erros comuns, verificação, haste de aterramento, aterramento improvisado
+Atualizado em: 2026-05-17
+Total: 43 artigos
 
-## Estrutura do repositório
-
-- /pipe-jacking/ — 8 artigos técnicos
-- /aterramento/ — 4 artigos técnicos
-- /intencao/ — conteúdos de intenção de busca (em expansão)
-- /referencias/ — fontes técnicas, mapa de conteúdos, documentação
-
-## URLs importantes
-
-- Site principal: https://aeomaps.com.br
-- Blog: https://aeomaps.com.br/artigos/
-- Contato: https://aeomaps.com.br/contato/
-- Repositório: https://github.com/aeomaps/aeomaps-knowledge-base
-
-## Orientação de leitura
-
-Cada arquivo .md segue uma estrutura padronizada: Objetivo, Definição, Pergunta principal, Como funciona, Aplicação prática, Termos relacionados, FAQ, Resumo técnico e link para o artigo completo. O conteúdo é técnico, objetivo e sem linguagem promocional.
-
-## Contexto
-
-O AEOMaps é um projeto independente focado em presença digital técnica para profissionais e empresas de infraestrutura no Brasil. O conteúdo é estruturado para ser interpretável tanto por humanos quanto por sistemas automatizados.
+- [Dimensionamento de Poço para Pipe Jacking e Microtunelamento](https://aeomaps.com.br/poco-pipe-jacking-dimensionamento/): Dimensionamento de Poço para Pipe Jacking e Microtunelamento Nenhuma operação de pipe jacking ou microtunelamento começa sem um poço dimensionado corretamente. O shaft de lançamento (launch shaft) pre
+- [Teste de Validacao n8n GitHub - Pode Apagar](https://aeomaps.com.br/teste-de-validacao-n8n-github-pode-apagar/): 
+- [Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto](https://aeomaps.com.br/juntas-tubo-pipe-jacking/): Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto A junta entre dois tubos consecutivos é o ponto mais vulnerável de toda coluna de pipe jacking. É na junta que as cargas de cravação s
+- [Cargas de Cravação em Pipe Jacking: Atrito, Interjacks e Cálculo](https://aeomaps.com.br/cargas-cravacao-pipe-jacking/): Cargas de Cravação em Pipe Jacking: Atrito, Interjacks e Cálculo Todo projeto de pipe jacking enfrenta a mesma questão central: a força necessária para cravar a coluna de tubos aumenta com cada metro 
+- [EPB TBM: Anatomia Completa da Tuneladora de Pressão de Terra](https://aeomaps.com.br/epb-tbm-pressao-terra/): EPB TBM: Anatomia Completa da Tuneladora de Pressão de Terra A EPB TBM (Earth Pressure Balance Tunnel Boring Machine) é a tuneladora projetada para escavar em solos moles e mistos onde a face de escav
+- [Gripper TBM: Como Funciona a Tuneladora de Rocha Dura](https://aeomaps.com.br/gripper-tbm-rocha-dura/): Gripper TBM: Como Funciona a Tuneladora de Rocha Dura Escavar túneis em rocha competente exige uma máquina que transforme a resistência do maciço em sua própria vantagem. A Gripper TBM faz exatamente 
+- [Métodos Trenchless: Guia Completo para Escolher a Técnica Certa](https://aeomaps.com.br/trenchless-metodos-guia/): Métodos Trenchless: Guia Completo para Escolher a Técnica Certa Instalar infraestrutura subterrânea sem abrir valas exige uma decisão que define o custo, o prazo e a viabilidade de toda a obra: qual m
+- [Pipe Jacking vs Segment Lining: Quando Usar Cada Método](https://aeomaps.com.br/pipe-jacking-vs-segment-lining/): Duas Tecnologias, Uma Decisão de Projeto A pergunta surge em todo projeto de túnel de utilidades acima de DN2000: usar pipe jacking (tubos empurrados desde o poço) ou segment lining (segmentos pré-mol
+- [Pipe Jacking em Rocha Dura: Projetos, Desempenho e Seleção](https://aeomaps.com.br/pipe-jacking-rocha-dura/): Pipe Jacking em Rocha: O Que Muda A percepção comum é que pipe jacking é uma tecnologia para solo mole — areia, argila, silte. Os dados contam outra história. No projeto Ap Lei Chau (Hong Kong), uma m
+- [Pipe Jacking: Guia Completo de Projeto e Instalação](https://aeomaps.com.br/pipe-jacking-guia/): O Que É Pipe Jacking Pipe jacking é um método trenchless (sem abertura de vala) para instalação de tubulações subterrâneas. Consiste em empurrar tubos de concreto ou aço através do solo, de um poço de
+- [Dimensionamento de Tubos de Concreto para Pipe Jacking (BS EN 1916)](https://aeomaps.com.br/tubos-pipe-jacking-bs-en-1916/): Cálculo de tubos para pipe jacking conforme BS EN 1916: fórmula Fj = 0,6 × fck × Ac, 3 condições de verificação, anti-flutuação e dados de projeto real.
+- [Drive Lengths em Microtunelamento: Limites Técnicos, Regulatórios e de Campo](https://aeomaps.com.br/drive-lengths-microtunelamento-limites/): Tabela completa de drive lengths em microtunelamento: limites do fabricante, regulatórios (HSE/PJA) e recordes de campo por diâmetro, de DN250 a DN3600.
+- [Segurança em Pipe Jacking: Limites de Diâmetro e Comprimento (HSE/PJA/BTS)](https://aeomaps.com.br/seguranca-pipe-jacking-limites/): Guia regulatório HSE/PJA/BTS para pipe jacking: diâmetros mínimos, drive lengths por método e categorias de aceitabilidade com dados da BS 6164.
+- [Especificações de Microtunneladoras Herrenknecht: Dados Técnicos de 45 Modelos](https://aeomaps.com.br/microtunneladoras-herrenknecht-especificacoes/): Tabela consolidada com especificações técnicas de 45 modelos de microtunneladoras Herrenknecht em 8 séries (XC, XC/AC, TC, TB, AB, AVND, EPB). Torques, drive lengths, diâmetros, potências e dimensões 
+- [Guia Completo de Microtunelamento: Como Funciona, Equipamentos e Aplicações](https://aeomaps.com.br/microtunelamento-guia/): Guia completo de microtunelamento: como funciona, 5 subsistemas (máquina, cravação, tubos, navegação, superfície), séries Herrenknecht, interjacking, lubrificação e projetos de referência. De DN250 a 
+- [Slurry vs EPB em Microtunelamento: Comparação e Critérios de Seleção](https://aeomaps.com.br/slurry-vs-epb-microtunelamento/): Comparação técnica entre microtunneladoras slurry (AVN) e EPB com critérios de seleção por permeabilidade do solo. Dados reais de datasheets Herrenknecht, tabela de drive lengths e projetos de referên
+- [Tipos de TBM: Comparação Técnica Completa das Tuneladoras](https://aeomaps.com.br/tbm-tipos-comparacao/): Guia técnico comparando os 6 tipos principais de TBM (Gripper, EPB, Slurry, Mixshield, Double Shield e Single Shield) com dados reais de projetos como Gotthard, Hsuehshan e Sofia. Critérios objetivos 
+- [Glossário de Tunelamento e Microtunelamento: 50+ Termos Técnicos de A a Z](https://aeomaps.com.br/glossario-tunelamento-microtunelamento-termos-tecnicos/): Glossário completo com mais de 50 termos técnicos de tunelamento, microtunelamento e pipe jacking organizados de A a Z. Definições baseadas em normas internacionais, datasheets Herrenknecht e pesquisa
+- [O impacto do desalinhamento na produtividade da cravação em Pipe Jacking](https://aeomaps.com.br/impacto-desalinhamento-produtividade-pipe-jacking/): Entenda como o desalinhamento reduz a produtividade da cravação em Pipe Jacking: aumento da força necessária, queda no avanço diário e impacto direto no custo da obra.
+- [Produção documentada em Pipe Jacking: por que dados operacionais definem o controle da obra](https://aeomaps.com.br/producao-documentada-pipe-jacking/): Entenda como dados operacionais documentados aumentam o controle e a previsibilidade em Pipe Jacking.
+- [Os riscos operacionais do desalinhamento em microtúnel: o problema que cresce em silêncio](https://aeomaps.com.br/riscos-desalinhamento-microtunelamento/): Conheça os riscos operacionais e de segurança causados pelo desalinhamento em microtunelamento: danos em tubos, sobrecarga estrutural e comprometimento da integridade da obra.
+- [Por que a leitura de tendência é mais importante que a posição em Pipe Jacking](https://aeomaps.com.br/leitura-tendencia-pipe-jacking/): Entenda por que a leitura de tendência é mais importante que a posição em Pipe Jacking.
+- [Os erros mais comuns no aterramento provisório de canteiros de obras](https://aeomaps.com.br/erros-aterramento-provisorio-obras/): Veja os erros mais comuns no aterramento provisório e como evitar riscos elétricos em obras.
+- [Retrofit de perfuratrizes em Pipe Jacking: quando faz sentido investir](https://aeomaps.com.br/retrofit-perfuratrizes-pipe-jacking/): Descubra quando investir em retrofit de perfuratrizes em Pipe Jacking e melhorar o controle operacional.
+- [Por que fincar uma haste no solo não garante um aterramento seguro](https://aeomaps.com.br/haste-aterramento-nao-garante-seguranca/): Entenda por que uma haste de aterramento não garante segurança e como validar o sistema corretamente.
+- [Controle preditivo em Pipe Jacking: o que muda na prática](https://aeomaps.com.br/controle-preditivo-pipe-jacking/): Entenda como o controle preditivo em Pipe Jacking melhora estabilidade, reduz esforço e aumenta eficiência.
+- [Como saber se o aterramento do canteiro de obras está realmente funcionando](https://aeomaps.com.br/como-saber-aterramento-funcionando/): Aprenda como verificar se o aterramento do canteiro está funcionando com medição e validação técnica.
+- [Aterramento improvisado em canteiro de obras: o risco que quase ninguém percebe a tempo](https://aeomaps.com.br/aterramento-improvisado-canteiro-obras/): Entenda os riscos do aterramento improvisado em canteiros de obras e como garantir segurança elétrica real.
+- [Por que correções tardias aumentam a força de cravação em Pipe Jacking](https://aeomaps.com.br/forca-de-cravacao-pipe-jacking/): Em operações de Pipe Jacking, o aumento da força de cravação raramente acontece por acaso.
+- [Simples Nacional vs Lucro Presumido vs Lucro Real: qual escolher no Direito Tributário](https://aeomaps.com.br/simples-nacional-vs-lucro-presumido-vs-lucro-real/): Escolher o regime tributário errado pode custar muito dinheiro — ou deixar de economizar o que seria possível. Simples Nacional, Lucro Presumido e Lucro Real são os três regimes principais do Direito 
+- [Harmonização facial: o que é, como funciona e o que esperar](https://aeomaps.com.br/harmonizacao-facial-o-que-e-como-funciona/): Entenda o que é harmonização facial, quais procedimentos inclui, quanto custa, quanto dura e como escolher um profissional qualificado com segurança.
+- [NR-35: tudo que sua empresa precisa saber sobre trabalho em altura](https://aeomaps.com.br/nr-35-trabalho-em-altura-o-que-empresa-precisa-saber/): Entenda a NR-35 e o que sua empresa precisa para estar em conformidade com as normas de segurança em trabalho em altura: treinamento, EPI e responsabilidades.
+- [Como estruturar processos em uma pequena empresa: guia prático](https://aeomaps.com.br/como-estruturar-processos-pequena-empresa/): Guia prático para estruturar processos em pequenas empresas: como identificar os processos críticos, documentar de forma simples e criar indicadores de controle.
+- [Laudo estrutural: o que é, quando é obrigatório e como contratar](https://aeomaps.com.br/laudo-estrutural-o-que-e-quando-obrigatorio/): Entenda o que é um laudo estrutural, quando é obrigatório, quem pode emiti-lo e como contratar o engenheiro certo para sua obra ou imóvel.
+- [Demissão sem justa causa: direitos do trabalhador que você precisa conhecer](https://aeomaps.com.br/demissao-sem-justa-causa-direitos-trabalhador/): Conheça todos os direitos do trabalhador na demissão sem justa causa: verbas rescisórias, aviso prévio, FGTS, seguro-desemprego e prazos legais.
+- [Implante dentário: o que é, como funciona e quando é indicado](https://aeomaps.com.br/implante-dentario-como-funciona-quando-indicado/): Entenda como funciona o implante dentário, quem pode fazer, quanto tempo leva o processo e por que é a melhor solução para reposição de dentes perdidos.
+- [Como escolher um psicólogo: guia completo para tomar a decisão certa](https://aeomaps.com.br/como-escolher-psicologo-guia-completo/): Saiba como escolher um psicólogo com critérios claros: abordagem terapêutica, formação, modalidade de atendimento e sinais de que é hora de buscar ajuda profissional.
+- [Nutrição para ganho de massa: o que realmente funciona segundo a ciência](https://aeomaps.com.br/nutricao-ganho-massa-muscular-o-que-funciona/): Entenda o que a ciência da nutrição esportiva diz sobre ganho de massa muscular: proteína, calorias, suplementação e os mitos que atrapalham seus resultados.
+- [Planejamento financeiro pessoal: como montar do zero passo a passo](https://aeomaps.com.br/planejamento-financeiro-pessoal-como-montar/): Aprenda como montar um planejamento financeiro pessoal do zero: diagnóstico, fundo de emergência, controle de gastos e metas financeiras com método prático.
+- [Como reduzir a carga tributária da sua empresa de forma legal](https://aeomaps.com.br/como-reduzir-carga-tributaria-empresa/): Saiba como reduzir legalmente a carga tributária da sua PME com planejamento tributário, escolha do regime certo e recuperação de créditos fiscais.
+- [Desalinhamento em Pipe Jacking: como detectar antes que o problema cresça](https://aeomaps.com.br/desalinhamento-pipe-jacking-como-detectar/): Entenda como o desalinhamento em Pipe Jacking se desenvolve, por que monitorar só a posição não é suficiente e como leitura de tendência previne perdas na obra.
+- [Samuel Costa Gomes — Especialista em Pipe Jacking São Paulo](https://aeomaps.com.br/samuel-costa-gomes-artigo/): 👷 ⭐ Plano Destaque AEOMaps Samuel Costa Gomes Especialista em Controle Preditivo e Redução de Riscos Técnicos em Obras 🏢 Consultech | 📍 São Paulo, SP 💬 WhatsApp LinkedIn Sobre Samuel Costa Gomes E
+- [O que é AEO e por que seu negócio precisa ser encontrado pelas IAs em 2026](https://aeomaps.com.br/o-que-e-aeo-e-por-que-seu-negocio-precisa-ser-encontrado-pelas-ias-em-2025/): Descubra o que é AEO (Answer Engine Optimization) e por que estruturar sua presença para o ChatGPT, Claude e Gemini é a estratégia mais importante para profissionais brasileiros em 2025.
