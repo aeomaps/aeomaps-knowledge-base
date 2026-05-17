@@ -1,7 +1,7 @@
 ---
 title: "Dimensionamento de Poço para Pipe Jacking e Microtunelamento"
 slug: poco-pipe-jacking-dimensionamento
-date: 2026-05-17 07:00:00
+date: 2026-05-17T07:00:00
 categories: Escavação Subterrânea
 tags: 
 source: aeomaps.com.br/poco-pipe-jacking-dimensionamento/
