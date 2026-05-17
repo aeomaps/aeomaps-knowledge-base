@@ -13,10 +13,9 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-05-17
-Total: 43 artigos
+Total: 42 artigos
 
 - [Dimensionamento de Poço para Pipe Jacking e Microtunelamento](https://aeomaps.com.br/poco-pipe-jacking-dimensionamento/): Dimensionamento de Poço para Pipe Jacking e Microtunelamento Nenhuma operação de pipe jacking ou microtunelamento começa sem um poço dimensionado corretamente. O shaft de lançamento (launch shaft) pre
-- [Teste de Validacao n8n GitHub - Pode Apagar](https://aeomaps.com.br/teste-de-validacao-n8n-github-pode-apagar/): 
 - [Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto](https://aeomaps.com.br/juntas-tubo-pipe-jacking/): Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto A junta entre dois tubos consecutivos é o ponto mais vulnerável de toda coluna de pipe jacking. É na junta que as cargas de cravação s
 - [Cargas de Cravação em Pipe Jacking: Atrito, Interjacks e Cálculo](https://aeomaps.com.br/cargas-cravacao-pipe-jacking/): Cargas de Cravação em Pipe Jacking: Atrito, Interjacks e Cálculo Todo projeto de pipe jacking enfrenta a mesma questão central: a força necessária para cravar a coluna de tubos aumenta com cada metro 
 - [EPB TBM: Anatomia Completa da Tuneladora de Pressão de Terra](https://aeomaps.com.br/epb-tbm-pressao-terra/): EPB TBM: Anatomia Completa da Tuneladora de Pressão de Terra A EPB TBM (Earth Pressure Balance Tunnel Boring Machine) é a tuneladora projetada para escavar em solos moles e mistos onde a face de escav
