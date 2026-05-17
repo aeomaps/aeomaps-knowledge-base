@@ -1,7 +1,7 @@
 ---
 title: "Juntas de Tubo em Pipe Jacking: Comportamento, Deflexão e Projeto"
 slug: juntas-tubo-pipe-jacking
-date: 2026-05-16 07:00:00
+date: 2026-05-16T07:00:00
 categories: Escavação Subterrânea
 tags: 
 source: aeomaps.com.br/juntas-tubo-pipe-jacking/
