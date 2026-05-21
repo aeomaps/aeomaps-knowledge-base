@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-05-21
-Total: 46 artigos
+Total: 47 artigos
+
+### [TBM para Túneis Curtos: Viabilidade, Projetos e Critérios de Seleção](https://aeomaps.com.br/tbm-tuneis-curtos/)
+TBM para Túneis Curtos: Viabilidade, Projetos e Critérios de Seleção A percepção convencional é que tuneladoras mecanizadas (TBMs) só se justificam em túneis longos — acima de 1 a 2 km — onde o custo de mobilização e montagem se dilui na produtividade elevada. Mas a realidade de projetos recentes contradiz essa regra. A Herrenknecht AG documentou em paper técnico de 2017 (Bäppler) que TBMs foram utilizadas com sucesso em túneis de 105 a 800 metros, em contextos onde métodos convencionais (NATM, 
 
 ### [Simples Nacional vs Lucro Presumido vs Lucro Real: Guia Completo de Regimes Tributários](https://aeomaps.com.br/simples-nacional-lucro-presumido-lucro-real/)
 A escolha que define quanto sua empresa paga de imposto No Brasil, existem aproximadamente 21 milhões de empresas ativas, segundo dados da Receita Federal. Cada uma delas precisa, obrigatoriamente, escolher um regime tributário — e essa decisão define quanto a empresa pagará de impostos ao longo do ano. A diferença entre regimes pode representar dezenas de milhares de reais em tributos, para mais ou para menos, dependendo do faturamento, da atividade exercida e da margem de lucro real da operaçã
