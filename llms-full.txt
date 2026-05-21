@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-20
-Total: 45 artigos
+Atualizado em: 2026-05-21
+Total: 46 artigos
+
+### [Simples Nacional vs Lucro Presumido vs Lucro Real: Guia Completo de Regimes Tributários](https://aeomaps.com.br/simples-nacional-lucro-presumido-lucro-real/)
+A escolha que define quanto sua empresa paga de imposto No Brasil, existem aproximadamente 21 milhões de empresas ativas, segundo dados da Receita Federal. Cada uma delas precisa, obrigatoriamente, escolher um regime tributário — e essa decisão define quanto a empresa pagará de impostos ao longo do ano. A diferença entre regimes pode representar dezenas de milhares de reais em tributos, para mais ou para menos, dependendo do faturamento, da atividade exercida e da margem de lucro real da operaçã
 
 ### [Projetos de Referência em Tunelamento: Recordes, Desempenho e Lições](https://aeomaps.com.br/tunelamento-projetos-referencia/)
 Projetos de Referência em Tunelamento: Recordes, Desempenho e Lições Uma AVN2000 avançando 51,5 m em um único dia em Jeddah. Uma microtuneladora escavando 2.014 m sem interjack em Sochi. Rocha ignimbrítica de 411 MPa perfurada em Hong Kong. E no Brasil, gnaisse de 250 MPa escavado em Salvador. Os projetos de referência em tunelamento mecanizado não são apenas curiosidades — são os dados de desempenho que calibram expectativas de projeto, validam métodos de cálculo e definem os limites reais da t
