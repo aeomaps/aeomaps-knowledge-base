@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-21
-Total: 47 artigos
+Atualizado em: 2026-05-22
+Total: 48 artigos
+
+### [Grouting em TBM: Ensaios e Controle de Qualidade do Grout Anelar](https://aeomaps.com.br/grouting-tbm-controle/)
+Grouting em TBM: Ensaios e Controle de Qualidade do Grout Anelar O espaço anelar entre o revestimento de segmentos e o maciço escavado por uma TBM representa uma das zonas mais críticas de um túnel. Quando mal preenchido, esse vazio — que pode variar de 10 a 18 cm de espessura dependendo do diâmetro da máquina — compromete a transferência de cargas do solo para o revestimento, gera recalques na superfície e abre caminho para infiltrações que podem desestabilizar toda a estrutura. No projeto do C
 
 ### [TBM para Túneis Curtos: Viabilidade, Projetos e Critérios de Seleção](https://aeomaps.com.br/tbm-tuneis-curtos/)
 TBM para Túneis Curtos: Viabilidade, Projetos e Critérios de Seleção A percepção convencional é que tuneladoras mecanizadas (TBMs) só se justificam em túneis longos — acima de 1 a 2 km — onde o custo de mobilização e montagem se dilui na produtividade elevada. Mas a realidade de projetos recentes contradiz essa regra. A Herrenknecht AG documentou em paper técnico de 2017 (Bäppler) que TBMs foram utilizadas com sucesso em túneis de 105 a 800 metros, em contextos onde métodos convencionais (NATM, 
