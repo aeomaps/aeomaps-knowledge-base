@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-22
-Total: 48 artigos
+Atualizado em: 2026-05-23
+Total: 49 artigos
+
+### [Blind-Hole Tunnels, TBM Retrátil e Aplicações Especiais de Pipe Jacking](https://aeomaps.com.br/blind-hole-tunnels-tbm/)
+Blind-Hole Tunnels, TBM Retrátil e Aplicações Especiais de Pipe Jacking Nem todo túnel liga dois poços. Em emissários submarinos, travessias sob rios e instalações onde o poço de chegada é inviável, a máquina precisa escavar até o ponto final e retornar pelo próprio túnel — é o conceito de blind-hole tunnel. A Herrenknecht AG desenvolveu soluções específicas para essa condição: microtunneladoras AVN que escavam até o destino, desconectam a cabeça de corte e são retiradas em ré pelo tubo já insta
 
 ### [Grouting em TBM: Ensaios e Controle de Qualidade do Grout Anelar](https://aeomaps.com.br/grouting-tbm-controle/)
 Grouting em TBM: Ensaios e Controle de Qualidade do Grout Anelar O espaço anelar entre o revestimento de segmentos e o maciço escavado por uma TBM representa uma das zonas mais críticas de um túnel. Quando mal preenchido, esse vazio — que pode variar de 10 a 18 cm de espessura dependendo do diâmetro da máquina — compromete a transferência de cargas do solo para o revestimento, gera recalques na superfície e abre caminho para infiltrações que podem desestabilizar toda a estrutura. No projeto do C
