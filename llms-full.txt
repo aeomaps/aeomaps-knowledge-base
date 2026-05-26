@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-25
-Total: 58 artigos
+Atualizado em: 2026-05-26
+Total: 59 artigos
+
+### [Métodos de Escavação em Pipe Jacking: Open Face vs Closed Face](https://aeomaps.com.br/open-face-closed-face-pipe-jacking/)
+Métodos de Escavação em Pipe Jacking: Open Face vs Closed Face A escolha entre escavação open face e closed face é a primeira decisão técnica de um projeto de pipe jacking — e a que mais impacta segurança, custo e viabilidade. Em solos granulares abaixo do lençol freático, uma frente aberta sem suporte pode colapsar em segundos. Já em argilas rijas acima do nível d'água, uma máquina pressurizada representa investimento desnecessário. Conforme documentado pela Pipe Jacking Association (PJA) do Re
 
 ### [Má Oclusão: Classificação de Angle e Análise Cefalométrica](https://aeomaps.com.br/ma-oclusao-classificacao-angle-cefalometria/)
 Quando um primeiro molar inferior permanente apresenta sua cúspide mésio-vestibular posicionada no sulco mésio-vestibular do primeiro molar superior — o que define a Classe I de Angle — a relação ântero-posterior entre as arcadas é considerada normal. Essa referência, publicada por Edward H. Angle em 1899, permanece como o sistema de classificação mais utilizado em ortodontia mundial após mais de 125 anos, apesar de suas limitações reconhecidas. A razão dessa longevidade não é a perfeição do sis
