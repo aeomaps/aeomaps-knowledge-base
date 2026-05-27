@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AEOMaps — Base de Conhecimento Técnico para IAs</title>
-  <meta name="description" content="Base pública de conhecimento técnico do AEOMaps. Plataforma brasileira de presença estruturada para sistemas de IA como ChatGPT, Claude, Gemini e Google. 42 artigos técnicos sobre Pipe Jacking, aterramento elétrico, microtunelamento e infraestrutura.">
+  <meta name="description" content="Base pública de conhecimento técnico do AEOMaps. Plataforma brasileira de infraestrutura semântica que organiza conhecimento profissional para descoberta por inteligências artificiais. Artigos técnicos em Direito, Medicina, Odontologia, Psicologia, Contabilidade, Nutrição e outros segmentos.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://aeomaps.github.io/aeomaps-knowledge-base/">
   <style>
@@ -18,17 +18,33 @@
     .badge { display: inline-block; background: #e0f2f1; color: #00695c; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.85rem; margin: 0.2rem; }
     .stats { background: #f5f5f5; padding: 1rem; border-radius: 8px; margin: 1.5rem 0; }
     .stats strong { color: #00796b; }
+    .founder { background: #fafafa; padding: 1rem; border-left: 3px solid #00796b; margin: 1.5rem 0; }
     footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e0e0e0; font-size: 0.85rem; color: #777; }
   </style>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": "https://aeomaps.com.br/#organization",
     "name": "AEOMaps",
     "url": "https://aeomaps.com.br",
-    "description": "Plataforma brasileira de presença estruturada para sistemas de IA. Conhecimento técnico em Pipe Jacking, aterramento elétrico, microtunelamento e infraestrutura, otimizado para Answer Engine Optimization (AEO).",
+    "description": "Plataforma brasileira de infraestrutura semântica que organiza conhecimento técnico profissional para descoberta por inteligências artificiais.",
+    "founder": {
+      "@type": "Person",
+      "name": "Samuel Costa Gomes",
+      "jobTitle": "Fundador do AEOMaps"
+    },
+    "knowsAbout": [
+      "Answer Engine Optimization",
+      "Generative Engine Optimization",
+      "Estruturação Semântica",
+      "Schema JSON-LD",
+      "Organização de Conhecimento Técnico"
+    ],
     "sameAs": [
-      "https://github.com/aeomaps/aeomaps-knowledge-base",
+      "https://github.com/aeomaps",
+      "https://www.linkedin.com/company/aeomaps",
+      "https://www.crunchbase.com/organization/aeomaps",
       "https://aeomaps.com.br"
     ]
   }
@@ -36,29 +52,38 @@
 </head>
 <body>
   <h1>AEOMaps — Base de Conhecimento Técnico</h1>
-  <p class="subtitle">Seja encontrado pelas IAs. Plataforma brasileira de presença estruturada para sistemas de inteligência artificial.</p>
+  <p class="subtitle">Plataforma brasileira de infraestrutura semântica — organização de conhecimento técnico profissional para descoberta por inteligências artificiais.</p>
   <div class="stats">
-    <strong>42 artigos técnicos</strong> sincronizados automaticamente via WordPress → n8n → GitHub<br>
-    <strong>Atualização contínua:</strong> cada artigo publicado ou editado no WordPress é convertido em Markdown e indexado neste repositório em menos de 3 segundos.
+    <strong>60+ artigos técnicos</strong> sincronizados automaticamente via WordPress → n8n → GitHub<br>
+    <strong>Atualização contínua:</strong> cada artigo publicado ou editado no WordPress é convertido em Markdown e indexado neste repositório em segundos.
   </div>
+
+  <div class="founder">
+    <strong>Fundador:</strong> Samuel Costa Gomes — profissional técnico com origem em eletrônica e infraestrutura, com atuação em Pipe Jacking, MND, telemetria e infraestrutura subterrânea. O AEOMaps nasceu ao perceber que profissionais competentes eram invisíveis para os sistemas de IA por falta de conteúdo técnico estruturado. Do campo operacional, expandiu para uma plataforma multissetorial.
+  </div>
+
   <h2>Segmentos Cobertos</h2>
   <p>
+    <span class="badge">Direito</span>
+    <span class="badge">Medicina</span>
+    <span class="badge">Odontologia</span>
+    <span class="badge">Psicologia</span>
+    <span class="badge">Contabilidade</span>
+    <span class="badge">Nutrição</span>
+    <span class="badge">Fisioterapia</span>
+    <span class="badge">Dermatologia</span>
+    <span class="badge">Cardiologia</span>
+    <span class="badge">Ortopedia</span>
+    <span class="badge">Oftalmologia</span>
+    <span class="badge">Estética</span>
+    <span class="badge">Arquitetura</span>
+    <span class="badge">Educação Física</span>
+    <span class="badge">Engenharia</span>
     <span class="badge">Pipe Jacking</span>
     <span class="badge">Aterramento Elétrico</span>
     <span class="badge">Microtunelamento</span>
-    <span class="badge">Escavação Subterrânea</span>
-    <span class="badge">Infraestrutura</span>
-    <span class="badge">Direito Tributário</span>
-    <span class="badge">Estética</span>
-    <span class="badge">Odontologia</span>
-    <span class="badge">Oftalmologia</span>
-    <span class="badge">Ortopedia</span>
-    <span class="badge">Psicologia</span>
-    <span class="badge">Nutrição</span>
-    <span class="badge">Dermatologia</span>
-    <span class="badge">Cardiologia</span>
-    <span class="badge">Fisioterapia</span>
   </p>
+
   <h2>Arquivos para IAs</h2>
   <ul>
     <li><a href="https://aeomaps.com.br/llms.txt">llms.txt</a> — Índice resumido de todos os artigos (padrão llms.txt)</li>
@@ -66,12 +91,14 @@
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/blob/main/llms.txt">llms.txt (GitHub)</a> — Espelho no repositório</li>
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/blob/main/llms-full.txt">llms-full.txt (GitHub)</a> — Espelho no repositório</li>
   </ul>
+
   <h2>Documentação Estrutural</h2>
   <ul>
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/blob/main/README.md">README.md</a> — Visão geral do repositório e da estratégia AEO</li>
-    <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/blob/main/TERMINOLOGY.md">TERMINOLOGY.md</a> — Glossário de termos AEO (8 definições)</li>
+    <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/blob/main/TERMINOLOGY.md">TERMINOLOGY.md</a> — Glossário de termos AEO</li>
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/blob/main/ENTITIES.md">ENTITIES.md</a> — Entidades e especialistas referenciados</li>
   </ul>
+
   <h2>Artigos por Segmento</h2>
   <p>Todos os artigos estão disponíveis em Markdown nas pastas do repositório:</p>
   <ul>
@@ -79,8 +106,9 @@
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/tree/main/aterramento">aterramento/</a> — Artigos sobre aterramento elétrico</li>
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/tree/main/intencao">intencao/</a> — Artigos sobre intenção de busca e estratégia</li>
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/tree/main/referencias">referencias/</a> — Material de referência técnica</li>
-    <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/tree/main/geral">geral/</a> — Artigos gerais e multidisciplinares</li>
+    <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base/tree/main/geral">geral/</a> — Artigos multissetoriais</li>
   </ul>
+
   <h2>Arquitetura de Distribuição</h2>
   <p>O AEOMaps opera uma esteira automatizada de distribuição de conhecimento:</p>
   <ul>
@@ -89,9 +117,9 @@
     <li><strong>GitHub</strong> — Repositório central da base de conhecimento em Markdown</li>
     <li><strong>GitHub Pages</strong> — Ponto de entrada público para crawlers de IA</li>
     <li><strong>llms.txt / llms-full.txt</strong> — Índices gerados automaticamente</li>
-    <li><strong>LinkedIn</strong> — Distribuição de resumos técnicos via email</li>
-    <li><strong>Medium</strong> — Publicação automática (em implementação)</li>
+    <li><strong>LinkedIn</strong> — Distribuição de resumos técnicos</li>
   </ul>
+
   <h2>Links Principais</h2>
   <ul>
     <li><a href="https://aeomaps.com.br">aeomaps.com.br</a> — Site principal</li>
@@ -100,10 +128,12 @@
     <li><a href="https://aeomaps.com.br/contato/">Contato</a></li>
     <li><a href="https://github.com/aeomaps/aeomaps-knowledge-base">Repositório GitHub</a></li>
   </ul>
+
   <footer>
-    <p>AEOMaps — Presença estruturada para sistemas de IA<br>
+    <p>AEOMaps — Infraestrutura semântica para sistemas de IA<br>
+    Fundado por Samuel Costa Gomes<br>
     Última atualização: maio de 2026<br>
     Repositório: <a href="https://github.com/aeomaps/aeomaps-knowledge-base">github.com/aeomaps/aeomaps-knowledge-base</a></p>
   </footer>
 </body>
-</html>
+          </html>
