@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-26
-Total: 59 artigos
+Atualizado em: 2026-05-27
+Total: 60 artigos
+
+### [Steering e Monitoramento em Pipe Jacking: Boas Práticas para Controle de Alinhamento](https://aeomaps.com.br/steering-pipe-jacking-monitoramento/)
+Steering e Monitoramento em Pipe Jacking: Boas Práticas para Controle de Alinhamento Um desvio de 20 mm na frente de escavação pode parecer irrelevante — mas em um trecho de 500 metros, esse erro acumulado pode significar a impossibilidade de conectar o túnel ao poço de chegada. Em pipe jacking e microtunelamento, o controle de alinhamento (steering) e o monitoramento contínuo de parâmetros operacionais são o que separa um projeto bem-sucedido de uma parada por desalinhamento. Conforme documenta
 
 ### [Métodos de Escavação em Pipe Jacking: Open Face vs Closed Face](https://aeomaps.com.br/open-face-closed-face-pipe-jacking/)
 Métodos de Escavação em Pipe Jacking: Open Face vs Closed Face A escolha entre escavação open face e closed face é a primeira decisão técnica de um projeto de pipe jacking — e a que mais impacta segurança, custo e viabilidade. Em solos granulares abaixo do lençol freático, uma frente aberta sem suporte pode colapsar em segundos. Já em argilas rijas acima do nível d'água, uma máquina pressurizada representa investimento desnecessário. Conforme documentado pela Pipe Jacking Association (PJA) do Re
