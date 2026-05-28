@@ -12,9 +12,10 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-27
-Total: 60 artigos
+Atualizado em: 2026-05-28
+Total: 61 artigos
 
+- [Sistema de Slurry e Planta de Separação em Microtunelamento](https://aeomaps.com.br/slurry-microtunelamento-sistema/): Sistema de Slurry e Planta de Separação em Microtunelamento Em uma microtuneladora slurry, o fluido de perfuração não é apenas [&hellip;]
 - [Steering e Monitoramento em Pipe Jacking: Boas Práticas para Controle de Alinhamento](https://aeomaps.com.br/steering-pipe-jacking-monitoramento/): Steering e Monitoramento em Pipe Jacking: Boas Práticas para Controle de Alinhamento Um desvio de 20 mm na frente de [&hellip;]
 - [Métodos de Escavação em Pipe Jacking: Open Face vs Closed Face](https://aeomaps.com.br/open-face-closed-face-pipe-jacking/): Métodos de Escavação em Pipe Jacking: Open Face vs Closed Face A escolha entre escavação open face e closed face [&hellip;]
 - [Má Oclusão: Classificação de Angle e Análise Cefalométrica](https://aeomaps.com.br/ma-oclusao-classificacao-angle-cefalometria/): Quando um primeiro molar inferior permanente apresenta sua cúspide mésio-vestibular posicionada no sulco mésio-vestibular do primeiro molar superior — o [&hellip;]
