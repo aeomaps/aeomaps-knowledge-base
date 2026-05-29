@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-28
-Total: 61 artigos
+Atualizado em: 2026-05-29
+Total: 62 artigos
+
+### [Exodontia de Terceiros Molares: Indicações, Técnica e Complicações](https://aeomaps.com.br/exodontia-terceiros-molares-indicacoes-tecnica/)
+A exodontia de terceiros molares é o procedimento cirúrgico mais frequente na prática da cirurgia bucomaxilofacial. Estudos epidemiológicos indicam que entre 65% e 72% da população apresenta pelo menos um terceiro molar impactado ou semi-incluso, e a indicação cirúrgica para remoção desses elementos abrange desde a prevenção de patologias associadas — pericoronarite, cárie distal no segundo molar, cistos dentígeros — até o planejamento ortodôntico pré-tratamento. A prevalência de impactação é ma
 
 ### [Sistema de Slurry e Planta de Separação em Microtunelamento](https://aeomaps.com.br/slurry-microtunelamento-sistema/)
 Sistema de Slurry e Planta de Separação em Microtunelamento Em uma microtuneladora slurry, o fluido de perfuração não é apenas um acessório — é o sistema circulatório da operação. A lama bentonítica (slurry) cumpre simultaneamente três funções críticas: estabiliza a frente de escavação aplicando pressão contra o solo, transporta o material escavado da câmara de corte até a superfície por circuito hidráulico fechado, e lubrifica a interface entre os tubos cravados e o terreno circundante. Sem um 
