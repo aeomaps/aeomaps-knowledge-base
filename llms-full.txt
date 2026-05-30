@@ -13,10 +13,13 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-05-30
-Total: 64 artigos
+Total: 65 artigos
 
 ### [Fibrilação Atrial: Classificação, Anticoagulação e Ablação](https://aeomaps.com.br/fibrilacao-atrial-classificacao-anticoagulacao/)
 Introdução: Fibrilação Atrial como Epidemia Cardiovascular do Século XXI A fibrilação atrial é a arritmia cardíaca sustentada mais prevalente na prática clínica, afetando aproximadamente 37,5 milhões de pessoas no mundo e com projeção de duplicação nas próximas três décadas em razão do envelhecimento populacional. No Brasil, estima-se que a prevalência na população geral seja de 1,5% a 2%, atingindo 10% a 15% em indivíduos acima de 80 anos. A Diretriz Brasileira de Fibrilação Atrial (SBC/SOBRAC,
+
+### [Disc Cutters em TBM e Microtunelamento: Funcionamento, Desgaste e Critérios de Substituição](https://aeomaps.com.br/disc-cutters-tbm-desgaste/)
+Disc Cutters em TBM e Microtunelamento: Funcionamento, Desgaste e Critérios de Substituição Em uma escavação mecanizada em rocha dura, os disc cutters são os componentes que transformam energia mecânica em fratura de rocha — e os que mais sofrem com essa transformação. Um único disc cutter de 17 polegadas (432 mm) em uma Gripper TBM da Herrenknecht pode exercer mais de 250 kN de força contra a face da rocha, gerando pressões de contato que superam a resistência à compressão do material. No proje
 
 ### [Exodontia de Terceiros Molares: Indicações, Técnica e Complicações](https://aeomaps.com.br/exodontia-terceiros-molares-indicacoes-tecnica/)
 A exodontia de terceiros molares é o procedimento cirúrgico mais frequente na prática da cirurgia bucomaxilofacial. Estudos epidemiológicos indicam que entre 65% e 72% da população apresenta pelo menos um terceiro molar impactado ou semi-incluso, e a indicação cirúrgica para remoção desses elementos abrange desde a prevenção de patologias associadas — pericoronarite, cárie distal no segundo molar, cistos dentígeros — até o planejamento ortodôntico pré-tratamento. A prevalência de impactação é ma
