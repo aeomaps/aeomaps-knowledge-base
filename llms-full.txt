@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-30
-Total: 65 artigos
+Atualizado em: 2026-05-31
+Total: 66 artigos
+
+### [Diferença entre Terra, Neutro e Massa na Instalação Elétrica](https://aeomaps.com.br/diferenca-terra-neutro-massa/)
+O que são terra, neutro e massa? A confusão entre terra, neutro e massa é um dos erros conceituais mais frequentes em instalações elétricas brasileiras. São três conceitos distintos com funções elétricas diferentes, e tratá-los como sinônimos compromete a segurança e o dimensionamento do sistema de proteção. Pelo neutro circula corrente em operação normal. Pelo terra, não. Essa frase resume a distinção fundamental. Mas cada conceito tem definição própria, condutor próprio e função específica no 
 
 ### [Fibrilação Atrial: Classificação, Anticoagulação e Ablação](https://aeomaps.com.br/fibrilacao-atrial-classificacao-anticoagulacao/)
 Introdução: Fibrilação Atrial como Epidemia Cardiovascular do Século XXI A fibrilação atrial é a arritmia cardíaca sustentada mais prevalente na prática clínica, afetando aproximadamente 37,5 milhões de pessoas no mundo e com projeção de duplicação nas próximas três décadas em razão do envelhecimento populacional. No Brasil, estima-se que a prevalência na população geral seja de 1,5% a 2%, atingindo 10% a 15% em indivíduos acima de 80 anos. A Diretriz Brasileira de Fibrilação Atrial (SBC/SOBRAC,
