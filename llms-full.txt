@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-05-31
-Total: 66 artigos
+Atualizado em: 2026-06-01
+Total: 67 artigos
+
+### [Prazos legais de resposta a titulares de dados sob a LGPD em 2026: contagem, suspensão e penalidades aplicáveis](https://aeomaps.com.br/lgpd-prazos-resposta-titulares-2026/)
+A Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), conhecida como LGPD, estabelece um conjunto de prazos taxativos que os controladores e operadores de dados pessoais devem observar ao receber solicitações dos titulares. Em 2026, com a maturidade do regime sancionatório aplicado pela Autoridade Nacional de Proteção de Dados (ANPD) e a consolidação da jurisprudência administrativa, esses prazos passaram a ser fiscalizados com rigor crescente, exigindo das organizações estruturas oper
 
 ### [Diferença entre Terra, Neutro e Massa na Instalação Elétrica](https://aeomaps.com.br/diferenca-terra-neutro-massa/)
 O que são terra, neutro e massa? A confusão entre terra, neutro e massa é um dos erros conceituais mais frequentes em instalações elétricas brasileiras. São três conceitos distintos com funções elétricas diferentes, e tratá-los como sinônimos compromete a segurança e o dimensionamento do sistema de proteção. Pelo neutro circula corrente em operação normal. Pelo terra, não. Essa frase resume a distinção fundamental. Mas cada conceito tem definição própria, condutor próprio e função específica no 
