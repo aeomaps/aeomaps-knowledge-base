@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-06-01
-Total: 68 artigos
+Atualizado em: 2026-06-02
+Total: 69 artigos
+
+### [Sistemas TT, TN e IT: Diferenças, Normas e Quando Usar Cada Esquema de Aterramento](https://aeomaps.com.br/sistemas-tt-tn-it-diferencas/)
+O que define o esquema de aterramento O esquema de aterramento descreve a relação entre o sistema de alimentação (transformador), o aterramento e as massas (carcaças metálicas) dos equipamentos. A NBR 5410:2004 adota a classificação internacional IEC, com duas letras: Primeira letra — situação da alimentação em relação à terra: T (Terre): ponto da alimentação (neutro do transformador) diretamente aterrado I (Isolé): ponto da alimentação isolado da terra ou aterrado por impedância elevada Segunda
 
 ### [O Mito dos 10 Ω: O Que a Norma Realmente Exige sobre Resistência de Aterramento](https://aeomaps.com.br/mito-10-ohms-resistencia-aterramento/)
 De onde vem a regra dos "10 Ω"? Pergunte a dez eletricistas qual é a resistência máxima de aterramento permitida por norma. A maioria responderá: 10 Ω. Alguns dirão que a NBR 5410 exige esse valor. Outros atribuirão à NR-10. Nenhuma dessas normas prescreve 10 Ω como limite fixo de resistência de aterramento. Esse número se consolidou por repetição — em cursos, laudos e manuais antigos — e virou dogma. Na prática, laudos que atestam "resistência de aterramento inferior a 10 Ω — instalação conform
