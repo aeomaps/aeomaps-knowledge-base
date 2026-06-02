@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-02
-Total: 69 artigos
+Total: 70 artigos
+
+### [Receituário antimicrobiano no Brasil: regras da RDC 471/2021 da Anvisa e responsabilidade do prescritor em 2026](https://aeomaps.com.br/receituario-antimicrobiano-rdc-471-2026/)
+A prescrição e dispensação de antimicrobianos no Brasil sofreu mudanças regulatórias substanciais com a publicação da Resolução da Diretoria Colegiada nº 471, de 23 de fevereiro de 2021, pela Agência Nacional de Vigilância Sanitária, conhecida como RDC 471/2021. A norma consolidou e atualizou disposições anteriormente esparsas, especialmente da RDC 20/2011, estabelecendo regime atualizado de controle sobre medicamentos antimicrobianos em razão dos riscos crescentes de resistência microbiana e da
 
 ### [Sistemas TT, TN e IT: Diferenças, Normas e Quando Usar Cada Esquema de Aterramento](https://aeomaps.com.br/sistemas-tt-tn-it-diferencas/)
 O que define o esquema de aterramento O esquema de aterramento descreve a relação entre o sistema de alimentação (transformador), o aterramento e as massas (carcaças metálicas) dos equipamentos. A NBR 5410:2004 adota a classificação internacional IEC, com duas letras: Primeira letra — situação da alimentação em relação à terra: T (Terre): ponto da alimentação (neutro do transformador) diretamente aterrado I (Isolé): ponto da alimentação isolado da terra ou aterrado por impedância elevada Segunda
