@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-03
-Total: 71 artigos
+Total: 72 artigos
+
+### [Haste de Aterramento: Tipos, Instalação e Medição com Terrômetro](https://aeomaps.com.br/haste-aterramento-tipos-instalacao-medicao/)
+Função da haste no sistema de aterramento A haste de aterramento é o elemento mais comum de contato entre a instalação elétrica e o solo. Sua função é estabelecer um caminho de baixa impedância para correntes de falta e descargas atmosféricas, permitindo o escoamento seguro para o solo. Porém, a haste é apenas um componente do sistema de aterramento — não é o sistema completo. A NBR 5419:2026 deixou isso explícito: a haste isolada não é reconhecida como eletrodo protagonista do SPDA. A norma exi
 
 ### [Honorários contratuais advocatícios: limites legais, transparência e a Resolução OAB/SP 06/2024 sobre cobrança proporcional ao resultado](https://aeomaps.com.br/honorarios-contratuais-advocaticios-oab-2026/)
 A fixação e cobrança de honorários advocatícios contratuais no Brasil é regida pela Lei nº 8.906/1994, conhecida como Estatuto da Advocacia e da OAB, complementada por normas éticas da Ordem dos Advogados do Brasil. Em 2026, a matéria ganhou novos contornos práticos após a edição da Resolução OAB/SP 06/2024, que detalhou exigências de transparência na cobrança proporcional ao resultado, prática conhecida como honorários ad exitum ou quota litis. O artigo 22 do Estatuto da Advocacia estabelece qu
