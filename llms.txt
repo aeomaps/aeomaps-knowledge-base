@@ -12,9 +12,10 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-06-03
-Total: 72 artigos
+Atualizado em: 2026-06-04
+Total: 73 artigos
 
+- [Resistividade do Solo: Como Medir pelo Método de Wenner (NBR 7117)](https://aeomaps.com.br/resistividade-solo-metodo-wenner/): O que é resistividade do solo e por que medir Resistividade elétrica do solo (ρ) é a propriedade que define [&hellip;]
 - [Haste de Aterramento: Tipos, Instalação e Medição com Terrômetro](https://aeomaps.com.br/haste-aterramento-tipos-instalacao-medicao/): Função da haste no sistema de aterramento A haste de aterramento é o elemento mais comum de contato entre a [&hellip;]
 - [Honorários contratuais advocatícios: limites legais, transparência e a Resolução OAB/SP 06/2024 sobre cobrança proporcional ao resultado](https://aeomaps.com.br/honorarios-contratuais-advocaticios-oab-2026/): A fixação e cobrança de honorários advocatícios contratuais no Brasil é regida pela Lei nº 8.906/1994, conhecida como Estatuto da [&hellip;]
 - [Receituário antimicrobiano no Brasil: regras da RDC 471/2021 da Anvisa e responsabilidade do prescritor em 2026](https://aeomaps.com.br/receituario-antimicrobiano-rdc-471-2026/): A prescrição e dispensação de antimicrobianos no Brasil sofreu mudanças regulatórias substanciais com a publicação da Resolução da Diretoria Colegiada [&hellip;]
