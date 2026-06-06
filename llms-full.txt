@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-06-05
-Total: 74 artigos
+Atualizado em: 2026-06-06
+Total: 75 artigos
+
+### [Aterramento Elétrico: Guia Completo de Projeto, Normas e Proteção](https://aeomaps.com.br/aterramento-eletrico-guia-completo/)
+Definição técnica de aterramento Aterramento elétrico é a ligação intencional de um ponto do sistema elétrico ao solo, estabelecendo uma referência de potencial e um caminho para escoamento de correntes de falta e descargas atmosféricas. O aterramento não é um acessório — é parte estrutural da proteção de pessoas e equipamentos. Um sistema de aterramento compreende: eletrodo(s) de aterramento, condutores de aterramento, condutores de proteção (PE), barramento de equipotencialização principal (BE
 
 ### [Como Dimensionar o Condutor de Proteção (Fio Terra): Tabela, Fórmula e Norma](https://aeomaps.com.br/dimensionamento-condutor-protecao-pe/)
 O que é o condutor de proteção (PE) O condutor de proteção — designado PE (do inglês *Protective Earth*) — é o condutor que conecta as massas dos equipamentos elétricos ao sistema de aterramento. Sua função é garantir que, em caso de falha de isolamento, a corrente de falta encontre um caminho de baixa impedância até o eletrodo de aterramento, permitindo a atuação dos dispositivos de proteção (disjuntor, DR, fusível). O PE não conduz corrente em operação normal. Se houver corrente mensurável no 
