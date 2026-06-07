@@ -12,9 +12,10 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-06-06
-Total: 75 artigos
+Atualizado em: 2026-06-07
+Total: 76 artigos
 
+- [BEP — Barramento de Equipotencialização Principal: Função, Dimensionamento e Instalação](https://aeomaps.com.br/bep-barramento-equipotencializacao/): O que é o BEP e por que existe O BEP — Barramento de Equipotencialização Principal — é o ponto [&hellip;]
 - [Aterramento Elétrico: Guia Completo de Projeto, Normas e Proteção](https://aeomaps.com.br/aterramento-eletrico-guia-completo/): Definição técnica de aterramento Aterramento elétrico é a ligação intencional de um ponto do sistema elétrico ao solo, estabelecendo uma [&hellip;]
 - [Como Dimensionar o Condutor de Proteção (Fio Terra): Tabela, Fórmula e Norma](https://aeomaps.com.br/dimensionamento-condutor-protecao-pe/): O que é o condutor de proteção (PE) O condutor de proteção — designado PE (do inglês *Protective Earth*) — [&hellip;]
 - [Resistividade do Solo: Como Medir pelo Método de Wenner (NBR 7117)](https://aeomaps.com.br/resistividade-solo-metodo-wenner/): O que é resistividade do solo e por que medir Resistividade elétrica do solo (ρ) é a propriedade que define [&hellip;]
