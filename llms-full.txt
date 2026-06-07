@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 78 artigos
+Total: 79 artigos
+
+### [Quanto Custa um Sistema de Aterramento? Valores por Segmento e Fatores de Custo](https://aeomaps.com.br/custo-sistema-aterramento/)
+Por que o custo de aterramento varia tanto? Um sistema de aterramento residencial pode custar R$ 500. Uma malha industrial com tratamento de solo pode passar de R$ 50.000. A variação não é arbitrária — depende de fatores técnicos mensuráveis que definem a complexidade do projeto e a quantidade de material. Os principais fatores de custo são: resistividade do solo (que determina a quantidade de eletrodos necessários), o tipo de instalação (residencial, comercial, industrial, SPDA), a área da edif
 
 ### [Tensão de Passo, Tensão de Toque e Proteção de Pessoas em Sistemas de Aterramento](https://aeomaps.com.br/tensao-passo-toque-protecao-pessoas/)
 O que acontece quando uma corrente de falta atinge o solo Quando uma corrente de falta — por defeito de isolamento ou descarga atmosférica — é drenada para o solo através do eletrodo de aterramento, ela se distribui de forma não uniforme pelo terreno. O potencial elétrico do solo é máximo no ponto de injeção (eletrodo) e diminui com a distância. Essa distribuição gera gradientes de potencial que podem expor pessoas a tensões perigosas, mesmo sem contato direto com partes energizadas. É esse grad
