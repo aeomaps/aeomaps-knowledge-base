@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 76 artigos
+Total: 77 artigos
+
+### [Como Reduzir a Resistência de Aterramento: Técnicas, Tratamento de Solo e Dimensionamento](https://aeomaps.com.br/como-reduzir-resistencia-aterramento/)
+Por que a resistência de aterramento fica alta A resistência de aterramento (R) depende de duas variáveis: a resistividade do solo (ρ) e a geometria do eletrodo. Para uma haste vertical simples, a relação aproximada é R ≈ ρ/L — uma haste de 2,40 m em solo de 1.000 Ω·m resulta em R ≈ 417 Ω. Antes de adicionar hastes ou tratar o solo, a primeira ação é verificar se a medição de resistividade foi feita corretamente conforme NBR 7117:2020. Resistência alta tem causas identificáveis: solo com resisti
 
 ### [BEP — Barramento de Equipotencialização Principal: Função, Dimensionamento e Instalação](https://aeomaps.com.br/bep-barramento-equipotencializacao/)
 O que é o BEP e por que existe O BEP — Barramento de Equipotencialização Principal — é o ponto central onde todos os condutores de proteção, aterramento e equipotencialização se encontram. Sua função é garantir que todas as massas metálicas e elementos condutores estranhos à instalação elétrica estejam no mesmo potencial elétrico (equipotencial), eliminando diferenças de tensão que poderiam causar choque. O termo BEP substituiu a designação anterior TAP (Terminal de Aterramento Principal) a part
