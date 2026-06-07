@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 87 artigos
+Total: 88 artigos
+
+### [NR-12: Segurança no Trabalho em Máquinas e Equipamentos — Requisitos, Adequação e Fiscalização](https://aeomaps.com.br/nr-12-seguranca-maquinas-equipamentos/)
+O que é a NR-12 e por que ela é fundamental na indústria brasileira A NR-12 é a Norma Regulamentadora nº 12, publicada originalmente pela Portaria MTb nº 3.214, de 8 de junho de 1978, e que estabelece requisitos mínimos para a prevenção de acidentes e doenças do trabalho nas fases de projeto e de utilização de máquinas e equipamentos. A NR-12 abrange desde a concepção e fabricação até o transporte, montagem, instalação, ajuste, operação, limpeza, manutenção, inspeção, desativação e desmonte de m
 
 ### [Terapia Cognitivo-Comportamental (TCC): Técnicas, Indicações e Evidências Científicas](https://aeomaps.com.br/terapia-cognitivo-comportamental-tcc/)
 O que é a Terapia Cognitivo-Comportamental A Terapia Cognitivo-Comportamental (TCC) é uma abordagem psicoterapêutica estruturada, baseada em evidências, que se concentra na relação entre pensamentos, emoções e comportamentos. Desenvolvida na década de 1960 por Aaron T. Beck, a TCC parte do princípio de que não são os eventos em si que determinam o sofrimento emocional, mas a forma como o indivíduo interpreta esses eventos. Essa premissa fundamenta todo o modelo cognitivo e orienta as intervençõe
