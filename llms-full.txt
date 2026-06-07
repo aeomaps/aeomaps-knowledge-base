@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 81 artigos
+Total: 82 artigos
+
+### [Aterramento para Equipamentos Eletrônicos: Ponto Único, Malha de Terra de Referência e Blindagem](https://aeomaps.com.br/aterramento-equipamentos-eletronicos-mtr/)
+O problema: aterramento de força não serve para eletrônica Nos anos 1970 e 1980, a indústria brasileira começou a substituir painéis eletromecânicos por CLPs e equipamentos com circuitos integrados. A solução de aterramento da época era ligar tudo à mesma malha de força — a mesma usada por motores, partidas de compressores e máquinas de solda. O resultado foi desastroso: travamentos, queima inexplicável de placas, perda de comunicação serial e falhas intermitentes que desafiavam qualquer lógica 
 
 ### [Aterramento de Sistemas Fotovoltaicos: NBR 16690, Equipotencialização CC/CA e Compatibilidade com SPDA](https://aeomaps.com.br/aterramento-sistema-fotovoltaico-nbr16690/)
 Por que o aterramento fotovoltaico é obrigatório A instalação de um sistema fotovoltaico (FV) em uma edificação é classificada como reforma elétrica — e toda reforma obriga a adequação do sistema de aterramento à norma vigente. Não importa se a edificação é antiga e não tinha aterramento: a partir da instalação do sistema FV, o aterramento passa a ser obrigatório. As normas aplicáveis: NBR 16690:2019 — Instalações elétricas de arranjos fotovoltaicos (cancelada e em revisão; princípios técnicos p
