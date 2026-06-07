@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 77 artigos
+Total: 78 artigos
+
+### [Tensão de Passo, Tensão de Toque e Proteção de Pessoas em Sistemas de Aterramento](https://aeomaps.com.br/tensao-passo-toque-protecao-pessoas/)
+O que acontece quando uma corrente de falta atinge o solo Quando uma corrente de falta — por defeito de isolamento ou descarga atmosférica — é drenada para o solo através do eletrodo de aterramento, ela se distribui de forma não uniforme pelo terreno. O potencial elétrico do solo é máximo no ponto de injeção (eletrodo) e diminui com a distância. Essa distribuição gera gradientes de potencial que podem expor pessoas a tensões perigosas, mesmo sem contato direto com partes energizadas. É esse grad
 
 ### [Como Reduzir a Resistência de Aterramento: Técnicas, Tratamento de Solo e Dimensionamento](https://aeomaps.com.br/como-reduzir-resistencia-aterramento/)
 Por que a resistência de aterramento fica alta A resistência de aterramento (R) depende de duas variáveis: a resistividade do solo (ρ) e a geometria do eletrodo. Para uma haste vertical simples, a relação aproximada é R ≈ ρ/L — uma haste de 2,40 m em solo de 1.000 Ω·m resulta em R ≈ 417 Ω. Antes de adicionar hastes ou tratar o solo, a primeira ação é verificar se a medição de resistividade foi feita corretamente conforme NBR 7117:2020. Resistência alta tem causas identificáveis: solo com resisti
