@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 83 artigos
+Total: 84 artigos
+
+### [Fratura de Fêmur: Classificação, Tratamento e Reabilitação](https://aeomaps.com.br/fratura-femur-classificacao-tratamento-reabilitacao/)
+O que é uma fratura de fêmur e por que ela exige atenção imediata Fratura de fêmur é a ruptura parcial ou completa do osso mais longo e resistente do corpo humano, localizado na coxa, entre a articulação do quadril e o joelho. No Brasil, dados do DATASUS indicam que entre 2015 e 2024 foram registradas mais de 690 mil internações por fratura de fêmur (CID-10: S72) em idosos acima de 60 anos, com predominância na Região Sudeste. A incidência estimada é de 224 casos por 100.000 idosos, e a taxa de 
 
 ### [Aterramento em Solo Rochoso: Soluções Alternativas para Alta Resistividade](https://aeomaps.com.br/aterramento-solo-rochoso-solucoes/)
 O desafio quantificado: resistividade em solo rochoso Aterrar em solo rochoso é um problema de física, não de técnica construtiva. A resistividade do granito varia de 1.500 a 10.000 Ω·m; a do basalto, de 10.000 a 20.000 Ω·m. Para comparação, argila arenosa fica entre 50 e 500 Ω·m — uma diferença de até 400 vezes. Uma haste Copperweld de 2,40 m × 5/8&#8243; cravada em argila úmida com resistividade de 100 Ω·m entrega aproximadamente 33 Ω (pela fórmula de Sunde: R ≈ ρ/L). A mesma haste em granito 
