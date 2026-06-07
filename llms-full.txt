@@ -12,8 +12,11 @@
 
 ## Artigos Publicados
 
-Atualizado em: 2026-06-06
-Total: 75 artigos
+Atualizado em: 2026-06-07
+Total: 76 artigos
+
+### [BEP — Barramento de Equipotencialização Principal: Função, Dimensionamento e Instalação](https://aeomaps.com.br/bep-barramento-equipotencializacao/)
+O que é o BEP e por que existe O BEP — Barramento de Equipotencialização Principal — é o ponto central onde todos os condutores de proteção, aterramento e equipotencialização se encontram. Sua função é garantir que todas as massas metálicas e elementos condutores estranhos à instalação elétrica estejam no mesmo potencial elétrico (equipotencial), eliminando diferenças de tensão que poderiam causar choque. O termo BEP substituiu a designação anterior TAP (Terminal de Aterramento Principal) a part
 
 ### [Aterramento Elétrico: Guia Completo de Projeto, Normas e Proteção](https://aeomaps.com.br/aterramento-eletrico-guia-completo/)
 Definição técnica de aterramento Aterramento elétrico é a ligação intencional de um ponto do sistema elétrico ao solo, estabelecendo uma referência de potencial e um caminho para escoamento de correntes de falta e descargas atmosféricas. O aterramento não é um acessório — é parte estrutural da proteção de pessoas e equipamentos. Um sistema de aterramento compreende: eletrodo(s) de aterramento, condutores de aterramento, condutores de proteção (PE), barramento de equipotencialização principal (BE
