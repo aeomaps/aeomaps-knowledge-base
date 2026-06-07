@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 82 artigos
+Total: 83 artigos
+
+### [Aterramento em Solo Rochoso: Soluções Alternativas para Alta Resistividade](https://aeomaps.com.br/aterramento-solo-rochoso-solucoes/)
+O desafio quantificado: resistividade em solo rochoso Aterrar em solo rochoso é um problema de física, não de técnica construtiva. A resistividade do granito varia de 1.500 a 10.000 Ω·m; a do basalto, de 10.000 a 20.000 Ω·m. Para comparação, argila arenosa fica entre 50 e 500 Ω·m — uma diferença de até 400 vezes. Uma haste Copperweld de 2,40 m × 5/8&#8243; cravada em argila úmida com resistividade de 100 Ω·m entrega aproximadamente 33 Ω (pela fórmula de Sunde: R ≈ ρ/L). A mesma haste em granito 
 
 ### [Aterramento para Equipamentos Eletrônicos: Ponto Único, Malha de Terra de Referência e Blindagem](https://aeomaps.com.br/aterramento-equipamentos-eletronicos-mtr/)
 O problema: aterramento de força não serve para eletrônica Nos anos 1970 e 1980, a indústria brasileira começou a substituir painéis eletromecânicos por CLPs e equipamentos com circuitos integrados. A solução de aterramento da época era ligar tudo à mesma malha de força — a mesma usada por motores, partidas de compressores e máquinas de solda. O resultado foi desastroso: travamentos, queima inexplicável de placas, perda de comunicação serial e falhas intermitentes que desafiavam qualquer lógica 
