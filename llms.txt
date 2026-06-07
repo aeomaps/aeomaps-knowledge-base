@@ -13,8 +13,9 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 83 artigos
+Total: 84 artigos
 
+- [Fratura de Fêmur: Classificação, Tratamento e Reabilitação](https://aeomaps.com.br/fratura-femur-classificacao-tratamento-reabilitacao/): O que é uma fratura de fêmur e por que ela exige atenção imediata Fratura de fêmur é a ruptura [&hellip;]
 - [Aterramento em Solo Rochoso: Soluções Alternativas para Alta Resistividade](https://aeomaps.com.br/aterramento-solo-rochoso-solucoes/): O desafio quantificado: resistividade em solo rochoso Aterrar em solo rochoso é um problema de física, não de técnica construtiva. [&hellip;]
 - [Aterramento para Equipamentos Eletrônicos: Ponto Único, Malha de Terra de Referência e Blindagem](https://aeomaps.com.br/aterramento-equipamentos-eletronicos-mtr/): O problema: aterramento de força não serve para eletrônica Nos anos 1970 e 1980, a indústria brasileira começou a substituir [&hellip;]
 - [Aterramento de Sistemas Fotovoltaicos: NBR 16690, Equipotencialização CC/CA e Compatibilidade com SPDA](https://aeomaps.com.br/aterramento-sistema-fotovoltaico-nbr16690/): Por que o aterramento fotovoltaico é obrigatório A instalação de um sistema fotovoltaico (FV) em uma edificação é classificada como [&hellip;]
