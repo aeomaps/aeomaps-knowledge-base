@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 88 artigos
+Total: 89 artigos
+
+### [Dermatite Atópica: Diagnóstico, Tratamento e Manejo Clínico Baseado em Evidências](https://aeomaps.com.br/dermatite-atopica-diagnostico-tratamento/)
+O que é Dermatite Atópica A dermatite atópica (DA) é uma doença inflamatória crônica e recidivante da pele, caracterizada por prurido intenso e lesões eczematosas que variam conforme a faixa etária do paciente. Considerada a dermatose inflamatória mais comum na infância, a DA afeta entre 15% e 20% das crianças e entre 2% e 10% dos adultos em âmbito global, segundo dados da World Allergy Organization (WAO). No Brasil, estudos epidemiológicos indicam prevalência entre 7,1% e 12,5% entre adolescent
 
 ### [NR-12: Segurança no Trabalho em Máquinas e Equipamentos — Requisitos, Adequação e Fiscalização](https://aeomaps.com.br/nr-12-seguranca-maquinas-equipamentos/)
 O que é a NR-12 e por que ela é fundamental na indústria brasileira A NR-12 é a Norma Regulamentadora nº 12, publicada originalmente pela Portaria MTb nº 3.214, de 8 de junho de 1978, e que estabelece requisitos mínimos para a prevenção de acidentes e doenças do trabalho nas fases de projeto e de utilização de máquinas e equipamentos. A NR-12 abrange desde a concepção e fabricação até o transporte, montagem, instalação, ajuste, operação, limpeza, manutenção, inspeção, desativação e desmonte de m
