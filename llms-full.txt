@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 80 artigos
+Total: 81 artigos
+
+### [Aterramento de Sistemas Fotovoltaicos: NBR 16690, Equipotencialização CC/CA e Compatibilidade com SPDA](https://aeomaps.com.br/aterramento-sistema-fotovoltaico-nbr16690/)
+Por que o aterramento fotovoltaico é obrigatório A instalação de um sistema fotovoltaico (FV) em uma edificação é classificada como reforma elétrica — e toda reforma obriga a adequação do sistema de aterramento à norma vigente. Não importa se a edificação é antiga e não tinha aterramento: a partir da instalação do sistema FV, o aterramento passa a ser obrigatório. As normas aplicáveis: NBR 16690:2019 — Instalações elétricas de arranjos fotovoltaicos (cancelada e em revisão; princípios técnicos p
 
 ### [Aterramento em Canteiro de Obras: NR-10, NR-18, NBR 5410 e NBR 17018](https://aeomaps.com.br/aterramento-canteiro-obras-nr10-nr18/)
 A obrigatoriedade do aterramento em obras Canteiro de obras é uma das instalações elétricas de maior risco: ambiente úmido, poeira condutiva, cabos expostos a danos mecânicos, equipamentos portáteis em uso intenso, trabalhadores em contato com estruturas metálicas e solo. Apesar disso, o aterramento em obras é frequentemente tratado como provisório e dispensável — e esse é o erro que gera acidentes. A NBR 5410:2004 aplica-se explicitamente a canteiros de obras. O item 1.2.1c da norma inclui inst
