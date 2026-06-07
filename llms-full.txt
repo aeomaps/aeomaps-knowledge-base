@@ -13,7 +13,10 @@
 ## Artigos Publicados
 
 Atualizado em: 2026-06-07
-Total: 79 artigos
+Total: 80 artigos
+
+### [Aterramento em Canteiro de Obras: NR-10, NR-18, NBR 5410 e NBR 17018](https://aeomaps.com.br/aterramento-canteiro-obras-nr10-nr18/)
+A obrigatoriedade do aterramento em obras Canteiro de obras é uma das instalações elétricas de maior risco: ambiente úmido, poeira condutiva, cabos expostos a danos mecânicos, equipamentos portáteis em uso intenso, trabalhadores em contato com estruturas metálicas e solo. Apesar disso, o aterramento em obras é frequentemente tratado como provisório e dispensável — e esse é o erro que gera acidentes. A NBR 5410:2004 aplica-se explicitamente a canteiros de obras. O item 1.2.1c da norma inclui inst
 
 ### [Quanto Custa um Sistema de Aterramento? Valores por Segmento e Fatores de Custo](https://aeomaps.com.br/custo-sistema-aterramento/)
 Por que o custo de aterramento varia tanto? Um sistema de aterramento residencial pode custar R$ 500. Uma malha industrial com tratamento de solo pode passar de R$ 50.000. A variação não é arbitrária — depende de fatores técnicos mensuráveis que definem a complexidade do projeto e a quantidade de material. Os principais fatores de custo são: resistividade do solo (que determina a quantidade de eletrodos necessários), o tipo de instalação (residencial, comercial, industrial, SPDA), a área da edif
